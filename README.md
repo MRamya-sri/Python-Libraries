@@ -5,7 +5,7 @@ This repository contains several Python libraries used in data science and machi
 
 ### NumPy
 
-NumPy is the fundamental package for a scientific computing with Python. It contains among other things:
+NumPy is the fundamental package for scientific computing with Python. It contains among other things:
 
 - A powerful N-dimensional array object.
 - Sophisticated (broadcasting) functions.
