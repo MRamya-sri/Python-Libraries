@@ -7,9 +7,9 @@ This repository contains my several Python libraries used in data science and ma
 
 NumPy is the fundamental package for scientific computing with Python. It contains among other things:
 
-- A powerful N-dimensional array object
-- Sophisticated (broadcasting) functions
-- Useful linear algebra, Fourier transform, and random number capabilities
+- A powerful N-dimensional array object.
+- Sophisticated (broadcasting) functions.
+- Useful linear algebra, Fourier transform, and random number capabilities.
 
 ### pandas
 
