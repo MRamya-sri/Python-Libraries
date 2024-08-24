@@ -9,7 +9,6 @@ NumPy is the fundamental package for scientific computing with Python. It contai
 
 - A powerful N-dimensional array object
 - Sophisticated (broadcasting) functions
-- Tools for integrating C/C++ and Fortran code
 - Useful linear algebra, Fourier transform, and random number capabilities
 
 ### pandas
