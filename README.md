@@ -1,5 +1,5 @@
 # PYTHON-LIBRARIES
-This repository contains my several Python libraries used in data science and machine learning: NumPy, pandas, Matplotlib, and TensorFlow.
+This repository contains several Python libraries used in data science and machine learning: NumPy, pandas, Matplotlib, and TensorFlow.
 
 ## Libraries
 
