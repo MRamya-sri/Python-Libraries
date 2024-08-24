@@ -24,7 +24,7 @@ Matplotlib is a comprehensive library for creating static, animated, and interac
 
 ### TensorFlow
 
-TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML, and developers easily build and deploy ML-powered applications.
+TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources. It lets researchers push the state-of-the-art in ML, and developers easily build and deploy ML-powered applications.
 
 ## Installation
 
